@@ -1,2 +1,1 @@
-print('dahi')
 print('meee')
